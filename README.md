@@ -1,4 +1,4 @@
-[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dashboard-exemplo.streamlit.app)
+[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dashboard-exemplo-zsixv4lka7tdnmgbxbjdar.streamlit.app)
 
 # 📊 Dashboard de Produtividade - Exemplo
 
