@@ -1,6 +1,8 @@
+[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dashboard-exemplo.streamlit.app)
+
 # 📊 Dashboard de Produtividade - Exemplo
 
-Este é um projeto de exemplo construído com [Streamlit](https://streamlit.io/), criado originalmente para visualização de dados de produtividade de colaboradores em uma empresa de RH. Esta versão é pública e utiliza dados fictícios para fins educacionais.
+Dashboard interativo criado com Streamlit para visualizar métricas de produtividade e atendimento de colaboradores. Esta versão usa dados simulados e é destinada a fins educacionais e demonstração.
 
 ## 🚀 Funcionalidades
 
